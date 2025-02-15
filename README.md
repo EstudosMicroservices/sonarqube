@@ -1,1 +1,7 @@
-This repository in only needed if your intention is using Sonarqube Server in a Docker container, I recommend the use of Sonarqube Cloud though.
+## English 🇺🇸
+
+This repository is only needed if your intention is to use Sonarqube Server as a Docker container. However, I recommend using Sonarqube Cloud.
+
+## Português 🇧🇷
+
+Esse repositório só será usado caso sua intenção seja utilizar o SonarQube Server como um container Docker. Porém, recomendo o uso do SonarQube Cloud.
